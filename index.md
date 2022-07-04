@@ -14,9 +14,9 @@ The task of Hardware AI is to provide a model to predict the required gestures d
 ## Ultra96 Synthesis and simulation setup
 
 ### Synthesis
-There were multiple ways that the synthesis of the AI model can be done on Ultra96, The initial implementation was to synthesise the model using a HDL design on vivado. This however would be more complicated and sub-optimal. This is because optimizations has to be made manually and HDL code logic is harder to implement as compared to higher level languages like C++ or Python. 
+There were multiple ways that the synthesis of the AI model could be done on Ultra96. The initial implementation was to synthesise the model using a HDL design on vivado. This however would be more complicated and sub-optimal. This is because optimizations have to be made manually and HDL code logic is harder to implement as compared to higher level languages like C++ or Python. 
 
-Another option was hls4ml. This tool is easier to use as compared to vivado HDL as the tool will implement the  Python scripts onto the FPGA interface. However, the result may not be entirely accurate as the conversion may not be done properly. 
+Another option was hls4ml. This tool is easier to use as compared to vivado HDL as the tool will implement the Python scripts onto the FPGA interface. However, the result may not be entirely accurate as the conversion may not be done properly. 
 
 Hence the last option, vivado HLS was the best option for our case. We only need to implement a C++ script for the feedward of the model, and then vivado HLS will synthesise the model into an IP Package that can be used in generating the block diagram and bitstream for the FPGA.  Vivado HLS also allows for code optimization. This allows us to reduce the latency when predicting.
 
