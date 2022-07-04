@@ -2,10 +2,7 @@
 
 Watch the video below on the final product
 
-<!-- [![Watch the video](https://img.youtube.com/vi/ICCijQHDYO8/hqdefault.jpg)](https://youtu.be/ICCijQHDYO8) -->
-
-
-https://user-images.githubusercontent.com/34931736/177091749-269fffda-5a42-4837-afa3-9ef62756feaf.mp4
+[![Watch the video](https://img.youtube.com/vi/ICCijQHDYO8/hqdefault.jpg)](https://youtu.be/ICCijQHDYO8)
 
 
 ## Aim
