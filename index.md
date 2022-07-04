@@ -1,6 +1,8 @@
 # Motion Detection using MLP
 
+Watch the video below on the final product
 
+[![Watch the video](https://img.youtube.com/vi/ICCijQHDYO8/hqdefault.jpg)](https://youtu.be/ICCijQHDYO8)
 
 ## Aim
 To detect primary motions (Shield, Grenade, Reload, Logout and Non-Gestures) using data from Gyrometers and Accelerometers from MPU6050. 
