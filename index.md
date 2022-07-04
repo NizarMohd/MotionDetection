@@ -6,7 +6,7 @@ Watch the video below on the final product
 
 
 ## Aim
-To detect primary motions (Shield, Grenade, Reload, Logout and Non-Gestures) using data from Gyrometers and Accelerometers from MPU6050. 
+To detect primary motions (Shield, Grenade, Reload, Logout and Non-Gestures) using data from Gyrometers and Accelerometers MPU6050. 
 
 ## Overview
 The task of Hardware AI is to provide a model to predict the required gestures during the game. With Ultra96’s Zynq processing system, we can make use of the FPGA to program an ML model to predict either a Shield, Reload or Grenade. This section explores the ways that the model was implemented, in terms of training, FPGA implementation and optimizations, and also the challenges faced when implementing the model.
