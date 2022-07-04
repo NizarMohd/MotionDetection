@@ -1,5 +1,5 @@
 # Motion Detection using MLP
-<video src='https://user-images.githubusercontent.com/34931736/177087799-d6a4b794-4406-4e4a-a457-b05bf245a627.mp4' width=180/>
+
 
 
 ## Aim
