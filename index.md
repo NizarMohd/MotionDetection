@@ -1,7 +1,6 @@
 # Motion Detection using MLP
 
-
-https://user-images.githubusercontent.com/34931736/177087317-c143446d-2cfd-4d99-9b71-bbc74a24cdaf.MOV
+https://user-images.githubusercontent.com/34931736/177087799-d6a4b794-4406-4e4a-a457-b05bf245a627.mp4
 
 
 ## Aim
